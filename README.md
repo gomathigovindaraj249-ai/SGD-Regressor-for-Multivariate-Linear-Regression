@@ -70,7 +70,6 @@ print("\nSample Predictions (House Price, Population):\n", Y_pred[:5])
 ```
 
 ## Output:
-![multivariate linear regression model for predicting the price of the house and number of occupants in the house]
 ![alt text](<Screenshot 2026-02-02 112857-1.png>)
 
 ## Result:
